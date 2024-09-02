@@ -1,0 +1,6 @@
+02/09/2024 17:30:40 - https://random-status-code.herokuapp.com/ - online: false
+02/09/2024 17:30:45 - https://www.alura.com.br - online: true
+02/09/2024 17:30:51 - https://www.google.com.br - online: true
+02/09/2024 17:30:56 - https://random-status-code.herokuapp.com/ - online: false
+02/09/2024 17:31:01 - https://www.alura.com.br - online: true
+02/09/2024 17:31:07 - https://www.google.com.br - online: true
